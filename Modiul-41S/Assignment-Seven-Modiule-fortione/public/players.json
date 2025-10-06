@@ -1,0 +1,122 @@
+[
+  {
+    "player_image": "https://i.ibb.co.com/v6WXz8F0/images-2.jpg",
+    "player_name": "Mahedi Hasan",
+    "player_country": "Bangladesh",
+    "playing_role": "All-rounder",
+    "rating": 8.3,
+    "bating_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "price": "310,000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/cS0fzdqb/images-1.jpg",
+    "player_name": "Shakib Al Hasan",
+    "player_country": "Bangladesh",
+    "playing_role": "All-rounder",
+    "rating": 9.5,
+    "bating_style": "Left-handed",
+    "bowling_style": "Left-arm orthodox",
+    "price": "850,000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/J6ZtyNh/mushfiqur-rahim.jpg",
+    "player_name": "Virat Kohli",
+    "player_country": "India",
+    "playing_role": "Top-order Batsman",
+    "rating": 9.2,
+    "bating_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "price": "1,500,000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/XfFRFGNr/mahmudullahjpg.jpg",
+    "player_name": "Babar Azam",
+    "player_country": "Pakistan",
+    "playing_role": "Top-order Batsman",
+    "rating": 9.0,
+    "bating_style": "Right-handed",
+    "bowling_style": "None",
+    "price": "1,100,000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/Zz5ynz5p/images.jpg",
+    "player_name": "Rashid Khan",
+    "player_country": "Afghanistan",
+    "playing_role": "Bowler",
+    "rating": 8.8,
+    "bating_style": "Right-handed",
+    "bowling_style": "Right-arm leg-break",
+    "price": "950,000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/9mZkWhJS/AP23252428810961-1727346092.jpg",
+    "player_name": "Rohit Sharma",
+    "player_country": "India",
+    "playing_role": "Opening Batsman",
+    "rating": 8.7,
+    "bating_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "price": "1,300,000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/CpbYTtk1/0llz-VKBmwz.jpg",
+    "player_name": "Ben Stokes",
+    "player_country": "England",
+    "playing_role": "All-rounder",
+    "rating": 8.5,
+    "bating_style": "Left-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "price": "1,450,000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/fGQD0Y6C/taskin-ahmed-bcb-20240514120250.jpg",
+    "player_name": "Mustafizur Rahman",
+    "player_country": "Bangladesh",
+    "playing_role": "Bowler",
+    "rating": 8.0,
+    "bating_style": "Left-handed",
+    "bowling_style": "Left-arm fast-medium",
+    "price": "450,000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/23sCkfQr/Liton-Das-Bangladesh.jpg",
+    "player_name": "David Warner",
+    "player_country": "Australia",
+    "playing_role": "Opening Batsman",
+    "rating": 8.6,
+    "bating_style": "Left-handed",
+    "bowling_style": "None",
+    "price": "1,050,000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/8JStW4d/al-amin-hossain-806x605-51480494493.jpg",
+    "player_name": "Kane Williamson",
+    "player_country": "New Zealand",
+    "playing_role": "Batsman",
+    "rating": 8.9,
+    "bating_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "price": "1,200,000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/r8QWXbN/66332-headshot-safari.jpg",
+    "player_name": "Jasprit Bumrah",
+    "player_country": "India",
+    "playing_role": "Bowler",
+    "rating": 9.1,
+    "bating_style": "Right-handed",
+    "bowling_style": "Right-arm fast",
+    "price": "1,350,000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/23sCkfQr/Liton-Das-Bangladesh.jpg",
+    "player_name": "Muhammad Rizwan",
+    "player_country": "Pakistan",
+    "playing_role": "Wicketkeeper-Batsman",
+    "rating": 8.4,
+    "bating_style": "Right-handed",
+    "bowling_style": "None",
+    "price": "900,000 USD"
+  }
+]
